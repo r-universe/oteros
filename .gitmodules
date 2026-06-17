@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "AeRobiology"]
 	path = AeRobiology
-	url = https://github.com/cran/AeRobiology
+	url = https://github.com/oteros/aerobiology
